@@ -74,7 +74,7 @@ Sum = 15 ✅ Winner
 ### Lottery Game UI
 
 ```md
-![Lottery Game](./screenshots/lottery-game.png)
+![Lottery Game](./screenshots/lott.jpg)
 ```
 
 Create a folder named **screenshots** in the root directory and place your screenshot inside it.
@@ -93,7 +93,7 @@ screenshots/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/lottery-game.git
+git clone https://github.com/parth0811/lottery-game.git
 ```
 
 Navigate to the project folder:

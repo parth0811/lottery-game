@@ -74,17 +74,10 @@ Sum = 15 ✅ Winner
 ### Lottery Game UI
 
 ```md
-![Lottery Game](./screenshots/lott.jpg)
+![Lottery Game](/screenshots/lott.jpg)
 ```
 
-Create a folder named **screenshots** in the root directory and place your screenshot inside it.
 
-Example:
-
-```bash
-screenshots/
-└── lottery-game.png
-```
 
 ---
 

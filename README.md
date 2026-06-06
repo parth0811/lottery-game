@@ -74,7 +74,7 @@ Sum = 15 ✅ Winner
 ### Lottery Game UI
 
 ```md
-![Lottery Game](/screenshots/lott.jpg)
+![Lottery Game](./screenshots/lott.jpg)
 ```
 
 
